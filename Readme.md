@@ -1,5 +1,5 @@
-Command to run js program 
+Command to run js program -
 node giftShop.js
 
-Command to run python program 
+Command to run python program -
 python giftShop.py
